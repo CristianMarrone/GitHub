@@ -2,7 +2,7 @@
 
 int main() {
 
-    /* TODO: declare the 2D array grades here */
+    
 	float average;
     int grades[2][5];
 	int i;
